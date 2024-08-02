@@ -20,3 +20,8 @@ This repository is intended to record and collect open-source projects for appli
 **⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言**  
 
 [https://github.com/tw93/MiaoYan](https://github.com/tw93/MiaoYan)
+
+## AZXTallyBook
+**一款记账应用 (已在AppStore上线)**
+
+[https://github.com/XinStar1/AZXTallyBook](https://github.com/XinStar1/AZXTallyBook)
