@@ -27,7 +27,7 @@ This repository is intended to record and collect open-source projects for appli
 [https://github.com/SebastianBoldt/Soundrocket](https://github.com/SebastianBoldt/Soundrocket)
 
 ## LightBurst
-** A graphic puzzle game written in Objective C for the iPhone, iPad, and any iOS device, available on the AppStore.一款益智类游戏  
+**A graphic puzzle game written in Objective C for the iPhone, iPad, and any iOS device, available on the AppStore.一款益智类游戏**  
 
 [https://github.com/b0rgbart3/LightBurst](https://github.com/b0rgbart3/LightBurst)
 
