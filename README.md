@@ -94,7 +94,10 @@ This is a client part (implemented as a server for security purposes) for transf
 [https://github.com/3dollar-in-my-pocket/3dollars-in-my-pocket-ios](https://github.com/3dollar-in-my-pocket/3dollars-in-my-pocket-ios)
 
 
+## HackerNews 
+**HackerNews is an app for reading Hacker News, built using TCA architecture**  
 
+[https://github.com/nik3212/HackerNews](https://github.com/nik3212/HackerNews)
 
 
 
