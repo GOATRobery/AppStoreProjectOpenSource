@@ -100,6 +100,11 @@ This is a client part (implemented as a server for security purposes) for transf
 [https://github.com/nik3212/HackerNews](https://github.com/nik3212/HackerNews)
 
 
+## MixTeam 
+**About
+An old Swift project started in Swift 3 that I want to migrate to modern Swift, SwiftUI and at last publish it on the AppStore (which is done now :D).**  
+
+[https://github.com/renaudjenny/MixTeam](https://github.com/renaudjenny/MixTeam)
 
 
 
