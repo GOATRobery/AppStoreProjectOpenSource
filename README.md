@@ -67,6 +67,12 @@ This repository is intended to record and collect open-source projects for appli
 [https://github.com/iwalben/BBRecipe](https://github.com/iwalben/BBRecipe)  
 
 
+## photoview-ios
+**iOS client for Photoview**
+
+[https://github.com/photoview/photoview-ios](https://github.com/photoview/photoview-ios)  
+
+
 ## MentalSnapp
 **上线Appstore** 
   
