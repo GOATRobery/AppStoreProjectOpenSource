@@ -67,7 +67,7 @@ This repository is intended to record and collect open-source projects for appli
 [https://github.com/iwalben/BBRecipe](https://github.com/iwalben/BBRecipe)  
 
 
-## photoview-ios
+## photoview-ios(SwiftUI)
 **iOS client for Photoview**
 
 [https://github.com/photoview/photoview-ios](https://github.com/photoview/photoview-ios)  
