@@ -119,6 +119,11 @@ An old Swift project started in Swift 3 that I want to migrate to modern Swift, 
 [https://github.com/pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner)  
 
 
+## Off-Day  
+**Off Day is a holiday alarm clock app on iOS. Users can easily and elegantly mark holidays and toggle alarms based on conditions using the built-in shortcuts in Off Day.**
+
+[https://github.com/zizicici/Off-Day/tree/main](https://github.com/zizicici/Off-Day/tree/main)
+
 
 
 
