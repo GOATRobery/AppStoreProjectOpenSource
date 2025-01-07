@@ -16,6 +16,11 @@ This repository is intended to record and collect open-source projects for appli
 
 [https://github.com/mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios)
 
+## Home-assistant-iOS
+**📱 Home Assistant for Apple platforms**
+
+[https://github.com/home-assistant/iOS](https://github.com/home-assistant/iOS)
+
 ## MiaoYan 
 **⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言**  
 
